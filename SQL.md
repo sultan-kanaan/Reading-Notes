@@ -167,6 +167,7 @@ RENAME TO new_table_name;
 DROP TABLE IF EXISTS mytable;
 ```
 
+
 **task 18**
 ![](./img/task18.png)
 
