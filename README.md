@@ -22,7 +22,7 @@
 
 | titel  | link        |
 | ---    | ----------- |
-| databases and SQL | [databases and SQL](databases and SQL.md)     |
+| databases and SQL |  [databases and SQL](README.md) |
 
 
 That is so funny! :joy:
