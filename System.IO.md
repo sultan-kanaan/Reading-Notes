@@ -30,19 +30,19 @@
  
 >**Streams classes(`commonly used` ) :**
 
-FileStream – for reading and writing to a file.
+#### FileStream – for reading and writing to a file.
 
-IsolatedStorageFileStream – for reading and writing to a file in isolated storage.
+#### IsolatedStorageFileStream – for reading and writing to a file in isolated storage.
 
-MemoryStream – for reading and writing to memory as the backing store.
+#### MemoryStream – for reading and writing to memory as the backing store.
 
-BufferedStream – for improving performance of read and write operations.
+#### BufferedStream – for improving performance of read and write operations.
 
-NetworkStream – for reading and writing over network sockets.
+#### NetworkStream – for reading and writing over network sockets.
 
-PipeStream – for reading and writing over anonymous and named pipes.
+#### PipeStream – for reading and writing over anonymous and named pipes.
 
-CryptoStream – for linking data streams to cryptographic transformations.
+#### CryptoStream – for linking data streams to cryptographic transformations.
 
 
 
