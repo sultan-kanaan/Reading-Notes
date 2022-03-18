@@ -25,7 +25,9 @@
 * [Unit Testing](UnitTesting.md)
 * [Exception Handling & Debugging](Debugging.md)
 * [History of .NET and C#](C%23.md)
-
+* [Mindset](Mindset.md)
+* [Terminal](Terminal.md)
+* [System.IO](System.IO.md)
 
 
 That is so funny! :joy:
