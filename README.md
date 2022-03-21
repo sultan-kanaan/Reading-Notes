@@ -28,7 +28,7 @@
 * [Mindset](Mindset.md)
 * [Terminal](Terminal.md)
 * [System.IO](System.IO.md)
-
+* [Classes](Classes.md)
 
 That is so funny! :joy:
 
