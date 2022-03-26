@@ -29,6 +29,7 @@
 * [Terminal](Terminal.md)
 * [System.IO](System.IO.md)
 * [Classes](Classes.md)
-
+* [OOP Principles](OOPPrinciples.md)
+* [Linked Lists](LinkedLists.md)
 That is so funny! :joy:
 
