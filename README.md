@@ -31,6 +31,7 @@
 * [Classes](Classes.md)
 * [OOP Principles](OOPPrinciples.md)
 * [Linked Lists](LinkedLists.md)
+* [Interfaces](Interfaces.md)
 
 
 
