@@ -33,7 +33,7 @@
 * [Linked Lists](LinkedLists.md)
 * [Interfaces](Interfaces.md)
 * [Collections & Enums](Collections.md)
-
+* [LINQ](./LINQ.md)
 
 
 
