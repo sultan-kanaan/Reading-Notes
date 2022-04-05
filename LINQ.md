@@ -10,6 +10,14 @@ LINQ in C# is used to work with data access from sources such as objects, data s
 * Compile time syntax checking
 * It allows you to query collections like arrays, enumerable classes etc in the native language of your application, like VB or C# in much the same way as you would query a database using SQL
 
+## Parts of a Query Operation
+
+* Obtain the data source.
+
+* Create the query.
+
+* Execute the query.
+
 ## LINQ Code Examples
 
 ```
