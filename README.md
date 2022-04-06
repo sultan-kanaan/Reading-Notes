@@ -34,7 +34,7 @@
 * [Interfaces](Interfaces.md)
 * [Collections & Enums](Collections.md)
 * [LINQ](./LINQ.md)
-
+* [Stacks and Queues](Stacks%26Queues.md)
 
 
 That is so funny! :joy:
