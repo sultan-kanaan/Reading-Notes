@@ -39,7 +39,7 @@
 * [Introduction to Databases](./Databases.md)
 * [Entity Framework and APIs](EntityFramework.md)
 
-
+<br>
 
 That is so funny! :joy:
 
