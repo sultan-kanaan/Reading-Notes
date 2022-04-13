@@ -35,8 +35,10 @@
 * [Collections & Enums](Collections.md)
 * [LINQ](./LINQ.md)
 * [Stacks and Queues](Stacks%26Queues.md)
+---
 * [Introduction to Databases](./Databases.md)
 * [Entity Framework and APIs](EntityFramework.md)
+
 
 
 That is so funny! :joy:
