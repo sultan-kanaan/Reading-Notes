@@ -38,6 +38,7 @@
 ---
 * [Introduction to Databases](./Databases.md)
 * [Entity Framework and APIs](EntityFramework.md)
+* [Dependency Injection](./DependencyInjection.md)
 
 <br>
 
