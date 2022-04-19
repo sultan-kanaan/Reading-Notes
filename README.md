@@ -30,15 +30,19 @@
 * [System.IO](System.IO.md)
 * [Classes](Classes.md)
 * [OOP Principles](OOPPrinciples.md)
-* [Linked Lists](LinkedLists.md)
 * [Interfaces](Interfaces.md)
 * [Collections & Enums](Collections.md)
 * [LINQ](./LINQ.md)
-* [Stacks and Queues](Stacks%26Queues.md)
 ---
 * [Introduction to Databases](./Databases.md)
 * [Entity Framework and APIs](EntityFramework.md)
 * [Dependency Injection](./DependencyInjection.md)
+---
+`Data Structures`
+* [Linked Lists](LinkedLists.md)
+* [Stacks and Queues](Stacks%26Queues.md)
+* [Trees](./Trees.md)
+
 
 <br>
 
