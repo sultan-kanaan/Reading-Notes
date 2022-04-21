@@ -37,6 +37,7 @@
 * [Introduction to Databases](./Databases.md)
 * [Entity Framework and APIs](EntityFramework.md)
 * [Dependency Injection](./DependencyInjection.md)
+* [Navigation Properties and Routing](./Routing.md)
 ---
 `Data Structures`
 * [Linked Lists](LinkedLists.md)
