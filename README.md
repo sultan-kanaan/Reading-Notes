@@ -40,6 +40,8 @@
 * [Navigation Properties and Routing](./Routing.md)
 * [Data Transfer Objects](./DataTransferObjects.md)
 * [Testing and Swagger](./Testing.md)
+* [Identity](./Identity.md)
+
 ---
 `Data Structures`
 * [Linked Lists](LinkedLists.md)
