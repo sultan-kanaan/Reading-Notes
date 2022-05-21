@@ -43,7 +43,7 @@
 * [Identity](./Identity.md)
 * [Roles, Claims and JWT Tokens](./RolesClaimsJWTTokens.md)
 ---
-*[MVC](MVC.md)
+* [MVC](MVC.md)
 
 
 ---
