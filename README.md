@@ -48,6 +48,8 @@
 * [MVC Cookies](Cookies.md)
 * [Azure Blob Storage](AzureBlobStorage.md)
 * [Razor Pages](RazorPages.md)
+* [View Components](ViewComponents.md)
+
 
 
 ---
