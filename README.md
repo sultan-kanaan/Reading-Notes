@@ -60,6 +60,7 @@
 * [Stacks and Queues](Stacks%26Queues.md)
 * [Trees](./Trees.md)
 * [Hashtables](Hashtables.md)
+* [Graphs](Graphs.md)
 
 
 <br>
